@@ -1,0 +1,54 @@
+[
+  {
+    "id": "physics-101",
+    "title": "Introduction to Physics",
+    "description": "Fundamental concepts of motion, forces, and energy.",
+    "topics": [
+      {
+        "id": "kinematics",
+        "title": "Kinematics",
+        "subtopics": [
+          {
+            "id": "speed",
+            "title": "Speed",
+            "content": "Speed is the distance travelled per unit time.\n\nIt is a scalar quantity."
+          },
+          {
+            "id": "velocity",
+            "title": "Velocity",
+            "content": "Velocity is the rate of change of displacement. It is a vector quantity."
+          }
+        ]
+      },
+      {
+        "id": "dynamics",
+        "title": "Dynamics",
+        "subtopics": [
+          {
+            "id": "newtons-laws",
+            "title": "Newton's Laws",
+            "content": "1. An object at rest stays at rest.\n2. F = ma\n3. Action = Reaction"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "math-101",
+    "title": "Basic Mathematics",
+    "description": "Core mathematical concepts used in science and everyday problem solving.",
+    "topics": [
+      {
+        "id": "functions",
+        "title": "Functions",
+        "subtopics": [
+          {
+            "id": "rate-of-change",
+            "title": "Rate of Change",
+            "content": "The rate of change describes how one quantity changes in relation to another."
+          }
+        ]
+      }
+    ]
+  }
+]
